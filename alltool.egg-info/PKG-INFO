@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: alltool
+Version: 0.1.0
+Summary: A collection of useful Python utilities
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+# alltool
+
+A collection of useful Python utilities.
+
+## Usage
+
+```python
+import screen
+
+screen.clear()
+print(screen.size("width"))
